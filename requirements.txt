@@ -1,0 +1,17 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+pydantic==2.10.4
+pydantic-settings==2.7.1
+python-dotenv==1.0.1
+faiss-cpu==1.9.0.post1
+sentence-transformers==3.3.1
+torch==2.5.1
+numpy==1.26.4
+PyMuPDF==1.25.1
+python-docx==1.1.2
+Pillow==11.1.0
+pytesseract==0.3.13
+openai==1.58.1
+httpx==0.28.1
+structlog==24.4.0
